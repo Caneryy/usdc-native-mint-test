@@ -1,0 +1,1 @@
+# usdc-native-mint-test
